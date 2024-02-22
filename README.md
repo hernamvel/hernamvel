@@ -18,8 +18,8 @@ a list of the companies I've worked before:
 - [Versapay](https://versapay.com/) (Ruby on Rails / Postgresql / Cucumber / Jenkins)
 - [Rise People](https://risepeople.com) (Ruby on Rails / Postgresql / Python / Terraform)
 - [Springbig](https://springbig.com) (Ruby on Rails / Postgresql / AWS / Terraform)
-- [BoldPenguin](https://springbig.com) (Ruby on Rails / Postgresql)
-- [Epica AI](https://epica.ai) (Ruby on Rails / Postgresql)
+- [BoldPenguin](https://boldpenguin.com) (Ruby on Rails / Postgresql)
+- Epica AI (Ruby on Rails / Postgresql)
 
 ### Personal Contributions
 
@@ -29,7 +29,7 @@ a list of the companies I've worked before:
 - [The optimal way to create a set of records with FactoryBot.create_list & FactoryBot.build_list](https://dev.to/hernamvel/the-optimal-way-to-create-a-set-of-records-with-factorybot-createlist-factorybot-buildlist-1j64)
 - [Be careful when using assign_attributes with has_one relations in Rails 7](https://dev.to/hernamvel/be-careful-when-using-assignattributes-with-hasone-relations-in-rails-7-492c)
 - [Learning rmagick drawing the Colombian flag](https://hernamvel.github.io/draw-flags-with-ruby-and-rmagick/)
-- [The problem of ordering unicode strings in Ruby]|(https://hernamvel.github.io/the-problem-of-ordering-unicode-strings-in-ruby/)
+- [The problem of ordering unicode strings in Ruby](https://hernamvel.github.io/the-problem-of-ordering-unicode-strings-in-ruby/)
 
 #### Helping my peers
 
